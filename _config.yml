@@ -1,11 +1,11 @@
 # Site settings
-author: Jevoughn Wisdom
-title: 
+author: Toxsin Code
+title: Just a simple blog
 header-img: img/home-bg.png
 email: jevoughnwisdom@gmail.com
-copyright_name: Jevoughn Wisdom
+copyright_name: Toxsin Code
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Insert flavor text here
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ToxsinCode
